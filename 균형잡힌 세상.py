@@ -4,7 +4,7 @@ while True :
 
     if a == "." :
         break
-
+ 
     for i in a :
         if i == '[' or i == '(' :
             stack.append(i)
