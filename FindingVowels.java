@@ -24,5 +24,7 @@ public class FindingVowels {
 
             System.out.println(cnt);
         }
+
+        sc.close();
     }
 }
